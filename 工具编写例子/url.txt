@@ -1,0 +1,11 @@
+﻿tieba.baidu.com
+cater.baidu.com
+travel.baidu.com
+index.baidu.com
+image.baidu.com
+v.baidu.com
+kf.baijia.baidu.com
+kaoshi.baidu.com
+lxbjs.baidu.com
+qvshi.baidu.com
+test.tuan.baidu.com

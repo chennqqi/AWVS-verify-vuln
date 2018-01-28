@@ -1,0 +1,16 @@
+Cross site scripting
+Namespace(name=None, severity='3', target=None, url=None)
+DOM-based cross site scripting
+Code execution
+Directory traversal
+Server side request forgery
+File upload XSS
+Blind SQL Injection
+XPath injection vulnerability
+XML external entity injection via external file
+File upload XSS (Java applet)
+File inclusion
+Remote file inclusion XSS
+Unrestricted file upload
+Expression language injection
+PHP code injection
